@@ -8,34 +8,25 @@ Stable tag: 3.8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add the Google Adwords conversión code to the woocommerce thankyou page. 
+Track your Adwords Conversion in Woocommerce
 
 == Description ==
+Easily track your conversions from **Adwords** with these plugin for **Woocommerce**. Simply add your conversion id and conversion label to the settings page and wait for conversions.
 
-Add your **Google Adwords** conversion code to the Woocommerce Thank You page easily. ¡Just in One Second!
-
-Also it send the value of the order to Google Adwords so you can track your earnings.
+The plugin also send the **value of the order** to Adwords so you can see your earnings and spends in your Google Adwords Campaign.
 
 == Installation ==
-
 1. Upload the plugin folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to your Woocommerce Integrations Setings page
 
 == Frequently Asked Questions ==
-
-
-
-= What about foo bar? =
-
-
+Any question?
 
 == Screenshots ==
-
-Not yet
+1. Settings page
 
 == Changelog ==
-
 = 1.0 =
 * Added settings page to configure your conversion label and conversion id
 * Added the conversion code to the thankyou page
