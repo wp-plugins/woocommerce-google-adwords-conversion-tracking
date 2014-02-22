@@ -15,6 +15,8 @@ Easily track your conversions from **Adwords** with these plugin for **Woocommer
 
 The plugin also send the **value of the order** to Adwords so you can see your earnings and spends in your Google Adwords Campaign.
 
+**More info in the [plugin site](http://victorfalcon.es/wc-adwords-conversion-tracking/) (In spanish)**
+
 == Installation ==
 1. Upload the plugin folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
