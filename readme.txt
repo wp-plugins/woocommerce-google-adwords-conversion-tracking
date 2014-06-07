@@ -29,6 +29,8 @@ Any question?
 1. Settings page
 
 == Changelog ==
+= 1.1 =
+* Changed plugin name
 = 1.0 =
 * Added settings page to configure your conversion label and conversion id
 * Added the conversion code to the thankyou page
